@@ -1,0 +1,19 @@
+h1
+{
+   text-decoration: underline;
+}
+hr{
+    border-style: none;
+    border-top-style: double ;
+    border-color:#000000 ;
+    border-width: 5px;
+}
+.hi
+{
+    float: center;
+}
+body
+{
+    background-image: url('https://img.freepik.com/premium-vector/light-orange-vector-abstract-polygonal-background_6869-831.jpg');
+    background-size: cover;
+}

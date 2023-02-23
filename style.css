@@ -354,7 +354,11 @@
   .gear-inner .bar:nth-child(6) {
     transform: rotate(150deg);
   }
-   
+  * {
+		padding: 0;
+		margin: 0;
+	}
+	
    
    
    

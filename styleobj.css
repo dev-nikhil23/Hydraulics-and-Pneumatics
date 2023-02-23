@@ -1,0 +1,12 @@
+hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-color:#000000 ;
+    border-width: 5px;
+}
+
+body
+{
+    background-image: url('https://media.istockphoto.com/id/1360515943/photo/blue-dartboard-as-business-target-on-red-background-business-success-and-challenge-concept-3d.jpg?b=1&s=170667a&w=0&k=20&c=W-JD_XC6R-Yu9BnM9v_TDJN6Bd66xtzSeYrkukLYtvc=');
+    background-size: cover;
+}

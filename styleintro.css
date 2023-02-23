@@ -1,0 +1,19 @@
+hr{
+    border-style: none;
+    border-top-style: dashed;
+    border-color:#000000 ;
+    border-width: 5px;
+}
+body
+{
+    background-image: url('https://e7.pngegg.com/pngimages/668/916/png-transparent-blue-hexagonal-molecule-structure-background-for-medical-and-science-technology-background.png');
+    background-size: cover;
+}
+h2
+{
+    text-decoration:underline;
+}
+h1
+{
+    font: italic;
+}
